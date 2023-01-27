@@ -1,2 +1,3 @@
-# top-restaurant-page
-Project for The Odin Project's Javascript Course
+# website-template-tabs
+
+Template for Tabbed Website Development (webpack project with modules for separate tabs);
